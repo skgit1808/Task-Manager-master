@@ -3,7 +3,7 @@
 This is a simple task manager application built with React, Redux, and Vite. It allows you to add, edit, delete and filter tasks. The application also supports light and dark themes.
 
 ```sh
-https://task-manager-fawn-three.vercel.app/
+https://task-manager-master-three.vercel.app/
 ```
 
 ## Features
